@@ -1,4 +1,4 @@
-<h3> Este programa foi criado como projeto final do Curso de Introdução á Ciencia da Computação com Python parte 1, forneciso pelo Coursera e implenentado pelo professor Fabio Kon. </h3>
+<h3> Este programa foi criado como projeto final do Curso de Introdução á Ciencia da Computação com Python parte 1, fornecido pelo Coursera e implementado pelo professor Fabio Kon. </h3>
 
 <h3>Prólogo</h3>
 Neste último exercício da Parte 1, iremos praticar não só o que vimos até agora no curso mas também outra habilidade importante de um programador: utilizar e interagir com código escrito por terceiros. Aqui, você não irá implementar o seu programa do zero. Você irá partir de um programa já iniciado e irá completá-lo. Na verdade, esse é o caso mais comum na indústria de software, onde muitos desenvolvedores trabalham colaborativamente em um mesmo programa.
@@ -146,3 +146,6 @@ avalia_textos(textos, ass_cp)
 
 ##
 Usando o esqueleto que oferecemos acima e implementando essas 3 funções, seu detector de plágio estará completo e você poderá submetê-lo ao corretor automático. Caso o corretor automático aponte erros, tente ler com bastante cuidado e atenção a mensagem fornecida por ele, pois ela normalmente ajuda a identificar o erro.  
+
+Tecnologias utilizadas no projeto:
+- Python
